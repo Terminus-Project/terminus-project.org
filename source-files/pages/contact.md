@@ -11,7 +11,7 @@ should:
 
 If you are looking to discuss the Terminus Project as a whole, or would like to
 discuss consulting or contracting possibilities, please email the project head,
-[Kyle Johnson <kyle@vacantminded.com>](mailto:kyle@vacantminded.com). If you do
+[Kyle Johnson (kyle@vacantminded.com)](mailto:kyle@vacantminded.com). If you do
 not hear back within 48 hours, try visiting our project IRC channel, as it is
 possible your message may have been eaten by the spam filter.
 
