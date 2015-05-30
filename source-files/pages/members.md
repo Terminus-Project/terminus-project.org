@@ -4,7 +4,7 @@
 
 * [Alex "aji" Iadicicco](https://github.com/aji)
 * [Kyle "Kabaka" Johnson](https://github.com/kabaka)
-* [Marhsall "Rylai" Fowler](https://github.com/rylai-)
+* [Rylee Fowler](https://github.com/skyhighwings)
 
 ## Trusted Contibutors
 
